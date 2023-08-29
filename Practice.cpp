@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     cout << "This is the first git program." << endl;
+    cout << "First Edit" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
